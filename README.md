@@ -36,7 +36,11 @@ The current voltmeter reading is:
 
 
   ## Circuit Diagram :
-  <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
+ <img width="1100" height="1406" alt="image" src="https://github.com/user-attachments/assets/0fb8f89f-cbd4-48de-8902-ae14aeff3929" />
+## Output:
+<img width="1121" height="362" alt="image" src="https://github.com/user-attachments/assets/82bfaafa-5541-4431-9847-fc5fdd2526fe" />
+
 
 
 ## Result: 
+Thus, the measurement of capacitance using schering bridge will be verified successfully.
